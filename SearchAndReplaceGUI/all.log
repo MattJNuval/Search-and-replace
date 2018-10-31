@@ -1,0 +1,77 @@
+2018-10-10 10:19:05.331 [AWT-EventQueue-0] INFO  SearchAllForWordWorker - Whole Word: false
+2018-10-10 10:19:05.334 [AWT-EventQueue-0] INFO  SearchAllForWordWorker - Word Case: false
+2018-10-10 10:19:05.345 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File type: All files
+2018-10-10 10:19:21.173 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-io-2.6\docs\org\apache\commons\io\IOUtils.html
+2018-10-10 10:19:21.173 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 1499:        out.write("Hello World");
+2018-10-10 10:19:21.173 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-io-2.6\docs\org\apache\commons\io\IOUtils.html
+2018-10-10 10:19:21.173 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 1569:  byte[] data = "Hello, World".getBytes();
+2018-10-10 10:19:23.262 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 344:  CharSetUtils.squeeze("hello", "k-p") = "helo"
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 345:  CharSetUtils.squeeze("hello", "a-e") = "hello"
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 366:    <li>squeeze(&quot;hello&quot;, {&quot;el&quot;}) => &quot;helo&quot;</li>
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 390:  CharSetUtils.count("hello", "k-p") = 3
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.263 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 391:  CharSetUtils.count("hello", "a-e") = 1
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 412:   <li>count(&quot;hello&quot;, {&quot;c-f&quot;, &quot;o&quot;}) returns 2.</li>
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 436:  CharSetUtils.keep("hello", "hl")  = "hll"
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 437:  CharSetUtils.keep("hello", "le")  = "ell"
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 460:   <li>keep(&quot;hello&quot;, {&quot;c-f&quot;, &quot;o&quot;})
+2018-10-10 10:19:23.264 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.265 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 487:  CharSetUtils.delete("hello", "hl")  = "eo"
+2018-10-10 10:19:23.265 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.265 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 488:  CharSetUtils.delete("hello", "le")  = "ho"
+2018-10-10 10:19:23.265 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.265 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 509:   <li>delete(&quot;hello&quot;, {&quot;c-f&quot;, &quot;o&quot;}) returns
+2018-10-10 10:19:23.265 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:23.265 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 538:    <li>translate(&quot;hello&quot;, &quot;ho&quot;, &quot;jy&quot;)
+2018-10-10 10:19:26.104 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\StringUtils.html
+2018-10-10 10:19:26.104 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 5136:  <code>replaceChars(&quot;hello&quot;, &quot;ho&quot;, &quot;jy&quot;) = jelly</code>.</p>
+2018-10-10 10:19:26.104 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\org\apache\commons\lang\StringUtils.html
+2018-10-10 10:19:26.105 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 6887:  StringUtils.getLevenshteinDistance("hello", "hallo")    = 1
+2018-10-10 10:19:27.087 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.087 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 93: <FONT color="green">090</FONT>         * CharSetUtils.squeeze("hello", "k-p") = "helo"<a name="line.90"></a>
+2018-10-10 10:19:27.087 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.087 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 94: <FONT color="green">091</FONT>         * CharSetUtils.squeeze("hello", "a-e") = "hello"<a name="line.91"></a>
+2018-10-10 10:19:27.087 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.087 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 117: <FONT color="green">114</FONT>         *   &lt;li&gt;squeeze(&amp;quot;hello&amp;quot;, {&amp;quot;el&amp;quot;}) =&gt; &amp;quot;helo&amp;quot;&lt;/li&gt;<a name="line.114"></a>
+2018-10-10 10:19:27.088 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.088 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 159: <FONT color="green">156</FONT>         * CharSetUtils.count("hello", "k-p") = 3<a name="line.156"></a>
+2018-10-10 10:19:27.088 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.088 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 160: <FONT color="green">157</FONT>         * CharSetUtils.count("hello", "a-e") = 1<a name="line.157"></a>
+2018-10-10 10:19:27.088 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.088 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 183: <FONT color="green">180</FONT>         *  &lt;li&gt;count(&amp;quot;hello&amp;quot;, {&amp;quot;c-f&amp;quot;, &amp;quot;o&amp;quot;}) returns 2.&lt;/li&gt;<a name="line.180"></a>
+2018-10-10 10:19:27.089 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.089 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 218: <FONT color="green">215</FONT>         * CharSetUtils.keep("hello", "hl")  = "hll"<a name="line.215"></a>
+2018-10-10 10:19:27.089 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.089 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 219: <FONT color="green">216</FONT>         * CharSetUtils.keep("hello", "le")  = "ell"<a name="line.216"></a>
+2018-10-10 10:19:27.089 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.089 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 246: <FONT color="green">243</FONT>         *  &lt;li&gt;keep(&amp;quot;hello&amp;quot;, {&amp;quot;c-f&amp;quot;, &amp;quot;o&amp;quot;})<a name="line.243"></a>
+2018-10-10 10:19:27.090 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.090 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 277: <FONT color="green">274</FONT>         * CharSetUtils.delete("hello", "hl")  = "eo"<a name="line.274"></a>
+2018-10-10 10:19:27.090 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.091 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 278: <FONT color="green">275</FONT>         * CharSetUtils.delete("hello", "le")  = "ho"<a name="line.275"></a>
+2018-10-10 10:19:27.091 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.091 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 301: <FONT color="green">298</FONT>         *  &lt;li&gt;delete(&amp;quot;hello&amp;quot;, {&amp;quot;c-f&amp;quot;, &amp;quot;o&amp;quot;}) returns<a name="line.298"></a>
+2018-10-10 10:19:27.091 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\CharSetUtils.html
+2018-10-10 10:19:27.091 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 347: <FONT color="green">344</FONT>         *   &lt;li&gt;translate(&amp;quot;hello&amp;quot;, &amp;quot;ho&amp;quot;, &amp;quot;jy&amp;quot;)<a name="line.344"></a>
+2018-10-10 10:19:27.474 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\StringUtils.html
+2018-10-10 10:19:27.474 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 4139: <FONT color="green">4136</FONT>         * &lt;code&gt;replaceChars(&amp;quot;hello&amp;quot;, &amp;quot;ho&amp;quot;, &amp;quot;jy&amp;quot;) = jelly&lt;/code&gt;.&lt;/p&gt;<a name="line.4136"></a>
+2018-10-10 10:19:27.475 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\Apache commons\commons-lang-2.6\apidocs\src-html\org\apache\commons\lang\StringUtils.html
+2018-10-10 10:19:27.475 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 6249: <FONT color="green">6246</FONT>         * StringUtils.getLevenshteinDistance("hello", "hallo")    = 1<a name="line.6246"></a>
+2018-10-10 10:19:27.750 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\GitHub\CSC-226\assignment-2-code\tests\place_names_large.txt
+2018-10-10 10:19:27.750 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 69258: Vanzaghello
+2018-10-10 10:19:27.752 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\GitHub\CSC-226\assignment-2-code\tests\place_names_large.txt
+2018-10-10 10:19:27.752 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 75596: Solonghello
+2018-10-10 10:19:27.759 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\GitHub\CSC-226\assignment-2-code\tests\place_names_large.txt
+2018-10-10 10:19:27.759 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 119973: Othello
+2018-10-10 10:19:27.770 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\GitHub\CSC-226\assignment-2-code\tests\place_names_med.txt
+2018-10-10 10:19:27.770 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 21161: Vanzaghello
+2018-10-10 10:19:27.773 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - File: C:\Users\mathe\Documents\GitHub\CSC-226\assignment-2-code\tests\place_names_med.txt
+2018-10-10 10:19:27.773 [SwingWorker-pool-2-thread-1] INFO  SearchAllForWordWorker - Line 42249: Othello
